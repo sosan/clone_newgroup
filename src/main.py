@@ -43,6 +43,17 @@ if __name__ == "__main__":
 # git config --global user.email
 # cat .git/config
 
+# tirar para atras
+# git reset HEAD..
+
+# tirar para atras
+# git reset head --nombredel archivo
+
+# git clone usuario@servidor:proyecto.git
+# que es mejor github o gitlab.
+# github ==> todo el mundo lo utiilzaba pero se han salido
+# gitlab ==> el mas joven CI/CD(mas manager de proyecto)
+
 
 
 
