@@ -9,7 +9,7 @@ from flask import redirect
 
 import os
 
-
+# instanciaiones
 app = Flask(__name__)
 
 
@@ -32,6 +32,16 @@ if __name__ == "__main__":
 # se puede usar para testeo
 # generar un docker desde el punto 0 .... y generar otro proyecto
 
+# git rm quitar elementos en el repositodio local
+# git add añadir elementos en el repositorio local
+
+# git diff --cehced
+# git diff head
+
+#  git config user.name
+# git config --global user.name
+# git config --global user.email
+# cat .git/config
 
 
 
