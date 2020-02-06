@@ -53,7 +53,9 @@ if __name__ == "__main__":
 # que es mejor github o gitlab.
 # github ==> todo el mundo lo utiilzaba pero se han salido
 # gitlab ==> el mas joven CI/CD(mas manager de proyecto)
+# git remote -v
+# git remote add origin 
 
 
-
-
+# git branch cmabiar rama
+# git push readme.md
